@@ -17,11 +17,12 @@ clock.grid(row=2,column=1,pady=25,padx=100)
 times()
 root.mainloop()
 
-#
-#
-#
-#
-#
+#		 _______________________________________
+#		| 										|
+#		|	DESARROLLADO POR JONSIE ORDOÑEZ		|
+#		|										|
+#		| 			Copyleft 2020			  	|
+#		|_______________________________________|
 #
 #
 #
